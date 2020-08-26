@@ -1,0 +1,11 @@
+img{
+    width:100%;
+    height: 100%;
+}
+
+.my-black{
+    background:black
+}
+.my-pad{
+    padding: 0px !important;
+}
